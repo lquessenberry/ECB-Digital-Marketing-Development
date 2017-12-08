@@ -342,7 +342,7 @@ It is imperative that we solidify a purpose for the app and deliver clear and co
 
 ### App development
 
-- Each Platform takes approximately 40 weeks to developer
+- Each Platform takes approximately 40 weeks to develop
 - There are three platforms (iOS, Android, Headless Drupal)
 
 ---
