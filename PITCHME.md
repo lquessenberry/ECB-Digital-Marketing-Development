@@ -19,6 +19,15 @@ We focus heavily on inbound marketing to reduce wasteful advertisement spending 
 - Online Retail Sales (New Territory)
 - Online Membership and Remarketing Opportunities
 - Branding and Legitimacy via Branded Apps
+- Visualizers for Top of Funnel Acquisition
+
+---
+
+### App Used as Another Funnel
+
+- Drip emails
+- Inbound CTA's
+- Sign Up For Accounts
 
 ---
 
@@ -190,6 +199,15 @@ In addition to that, it is most certainly possible to integrate a SKU/Barcode ba
 Several of our flooring and stone vendors have visualizers that allow the customer to customize their remodeling experience using samples of flooring tiles, stone, and more.
 
 ---
+
+### App Development Introduction
+#### Visualizers
+
+- http://tabindia.com/visualizer/ (Developer is For Hire)
+- https://www.msistone.com/virtual-kitchen-designer/ (Clunky To Use)
+
+---
+
 
 ## Prerequisites
 
