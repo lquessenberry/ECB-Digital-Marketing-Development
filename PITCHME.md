@@ -174,15 +174,72 @@ Some considerations to consider are:
 
 ---
 
-### App Development
+### App Development Introduction
 
-None of the above mentioned websites/companies offer native applications for iOS or Android. Cliqstudios does have an interactive cabinet calculator that could be translated into some sort of application feature. Linear feet and area calculators would be something that we could provide online as well as in a dedicated iOS/Android app.
+Lowes and Home Depot are the flagship apps of retail home improvement apps for iOS and Android. Cliqstudios does have an interactive cabinet calculator that could be translated into some sort of application feature. Linear feet and area calculators would be something that we could provide online as well as in a dedicated iOS/Android app.
 
 ---
 
-### App Development
+### App Development Introduction
 
 In addition to that, it is most certainly possible to integrate a SKU/Barcode based scanning feature into an app for product identification within our stores. This would allow customers to put together a list of items and figure a bill of materials based on unit of measure by the price per unit.
+
+---
+
+### App Development Introduction
+
+Several of our flooring and stone vendors have visualizers that allow the customer to customize their remodeling experience using samples of flooring tiles, stone, and more.
+
+---
+
+### App Development Prerequisites
+
+1. Data Standardization
+2. Data Accessibility
+3. Website Integration
+4. User Integration
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+Our data entry methods are **fractured** at best.
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+Bistrack is only a **fraction of the battle.**
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+**Images, Graphics, and Media** are scattered.
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+Cabinet lines **aren't** even in a database.
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+Our website isn't even integrated with our data, so how can we expect to build an app at this point?
+
+---
+
+### App Development Prerequisites
+#### Data Standardization
+
+Bottomline: Data entry and integrity are a must.
 
 ---
 
@@ -196,59 +253,11 @@ In addition to that, it is most certainly possible to integrate a SKU/Barcode ba
 ### App development
 #### Rough Estimate 1.2
 
-![](https://puu.sh/yC4D0/eb5e472a86.png)
-
----
-### App development
-#### Rough Estimate 1.3
-
-![](https://puu.sh/yC4GX/8a2c4209f9.png)
-
----
-### App development
-#### Rough Estimate 1.4
-
-![](https://puu.sh/yC4HD/7a334d6c97.png)
-
----
-### App development
-#### Rough Estimate 1.5
-
-![](https://puu.sh/yC4I5/41c1307cbb.png)
-
----
-### App development
-#### Rough Estimate 1.6
-
-![](https://puu.sh/yC4IE/155809b81a.png)
-
----
-### App development
-#### Rough Estimate 1.7
-
-![](https://puu.sh/yC4IW/34e4e57370.png)
-
----
-### App development
-#### Rough Estimate 1.8
-
-![](https://puu.sh/yC4Jz/c3a222aa11.png)
-
----
-### App development
-#### Rough Estimate 1.9
-
-![](https://puu.sh/yC4JV/27616d0ac2.png)
-
----
-### App development
-#### Rough Estimate 1.10
-
 ![](https://puu.sh/yC4Kq/8b115b747d.png)
 
 ---
 ### App development
-#### Rough Estimate 1.11
+#### Rough Estimate 1.3
 
 ![](https://puu.sh/yC4LZ/0366f4defd.png)
 
