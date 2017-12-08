@@ -339,3 +339,59 @@ It is imperative that we solidify a purpose for the app and deliver clear and co
 ![](https://puu.sh/yC5YW/5707debafd.png)
 
 ---
+
+### App development
+
+- Each Platform takes approximately 40 weeks to developer
+- There are three platforms (iOS, Android, Headless Drupal)
+
+---
+
+## 24 Month Development Timeline
+
+---
+
+## 2018 Development Cycle
+
+- **Q1 - Q2** | E-Commerce Website Discovery and Preliminary Development
+- **Q2** | Launch E.C. Barton (Corp) Website
+- **Q2 - Q3** | Design Standards, Mockups, and Deliberation
+- **Q1 - Q3** | **_Develop Data Entry Standards_**
+- **Q2 - Q4** | **_API Development and Testing_**
+- **Q2 - Q4** | E-Commerce Website Development and Testing
+
+---
+
+## 2018 Development Cycle Cont'd
+
+- **Q3** | Begin Barton's Lumber Redesign
+- **Q4** | Begin App Dev Agency Recruiting
+- **Q4** | App and Development Budget Approval
+- **Q4** | E-Commerce Website Final Testing
+
+---
+
+## 2019 Development Cycle
+
+- **Q1** | E-Commerce Website Launch
+- **Q1** | App Discovery Phase Begins
+- **Q2 - Q3** | App Design and Deliberation
+- **Q2 - Q4** | iOS App Development and Testing
+- **Q2 - Q4** | Android App Development and Testing
+
+---
+
+## 2019 Development Cycle Cont'd
+
+- **Q2** | Take Barton's Lumber Live
+- **Q3 - Q1 [2020]** | Headless Drupal App Development (TBA)
+- **Q4** | Begin Final iOS and Android Testing
+- **Q4** | App Store Submission and Accepting
+
+---
+
+## 2020 Development Cycle
+
+- **Q1** | (iOS/Android) App Launch
+- **Q1** | Finish up and test Headless App
+- **Q2** | Launch Headless App
