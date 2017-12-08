@@ -1,22 +1,16 @@
 ### ECB Digital Development
-#### Project Development & Google AdWords Performance
+#### Project Development
 By Lee Quessenberry
+
+---
+
+## Digital Inbound Marketing
 
 ---
 
 ### Digital Presence
 
 We focus heavily on inbound marketing to reduce wasteful advertisement spending and get more interaction out of our customers.
-
----
-
-### Inbound Marketing
-
-Inbound marketing is focused on attracting customers through relevant and helpful content and adding value at every stage in your customer's buying journey. With inbound marketing, potential customers find you through channels like blogs, search engines, and social media.
-
----
-
-Unlike outbound marketing, inbound marketing does not need to fight for potential customers attention. By creating content designed to address the problems and needs of your ideal customers, you attract qualified prospects and build trust and credibility for your business.
 
 ---
 
@@ -28,24 +22,8 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
-### <span class="gold">Us vs. Them</span>
-
-- Floor and Décor
-- Cabinets to go
-- Cliq Studios
-- ECB apps vs Lowes and/or Home Depot
-
----
-
-### <span class="gold">Us vs. Them</span>
-
-"I’d like for you to explore state of the art functions. Scanning our UPC codes, typing in measurements and cost/savings appear. Look at Cliqstudios. You can actually build your own cabinets."
-
-<em>Steve Brimner</em>
-
----
-
-### Cliqstudios / Pros:
+### Web Dev / App Review
+#### Cliqstudios / Pros:
 - Clean design.
 - Design language is consistent.
 - Cabinets are delivered to the home for free. (Likely absorbed into price.)
@@ -55,7 +33,8 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
-### Cliqstudios / Cons:
+### Web Dev / App Review
+#### Cliqstudios / Cons:
 - Slow website. 🐢
 - Shopping cart is only used for samples. (What?!)
 - Quote checkout is separate from cart checkout. (No reason for this.)
@@ -63,7 +42,8 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
-### Our Current Pros:
+### Current Website
+#### Our Current Pros:
 - Useful navigation.
 - Fast loadtimes.
 - Heavy organic traffic acquisition.
@@ -79,7 +59,8 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
-### Our Current Setbacks:
+### Current Website
+#### Our Current Setbacks:
 - Design could be cleaner
 - Search is bulky and inaccurate at times
 - No E-Commerce
@@ -87,6 +68,10 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 - No bill of material calculators
 - No interactive cabinet quote builder
 - Store chooser is sometimes a burden
+
+---
+
+## Obstacles
 
 ---
 
@@ -104,7 +89,9 @@ We currently have only barely scratched the tip of the iceberg and will have sev
 
 ### Bumps in the Road
 
-Bistrack, to my knowledge, offers no API for their customers. Their web services are limited at best and do not offer the opportunities that we need in order to complete these challenges. We will literally be developing their missing features for ourselves by using techniques made widely available to true web developers.
+Bistrack, ~~to my knowledge~~, offers no API for their customers. Their web services are limited at best and do not offer the opportunities that we need in order to complete these challenges. We will literally be developing their missing features for ourselves by using techniques made widely available to true web developers.
+
+<kbd>Bistrack is in development for an API. It won't be ready until early-mid 2019 for testing.</kbd>
 
 ---
 
@@ -129,27 +116,35 @@ Some considerations to consider are:
 
 ---
 
-### Roadmap and Itinerary
+## Roadmap and Itinerary
 
 ---
 
-### Website Development (8-12 months)
+## Website Development (8-12 months)
 
 ---
 
 - Set up development environments for Bistrack, Drupal 8, and DreamFactory. Proof of concept complete. **In progress.**
 
+<kbd>Update:</kbd> Servers are spun up and ready. Proof of concept is beginning development.
+
 ---
 
 - Contract top developers for Drupal 8 Commerce. **In progress.**
+
+<kbd>Update:</kbd> Tag1, ColdFront Labs, and Commerce Guys have all been initiated.
 
 ---
 
 - Open a dialog with Epicor to discover their web processes and develop our own methods and functions around their suggestions. **Contact Made**
 
+<kbd>Update:</kbd> Bistrack API is more than a year away from testing.
+
 ---
 
 - Begin development of API and Drupal 8 bridge for websites. (DreamFactory Configuration) **In progress**
+
+<kbd>Update:</kbd> Testing and development between us and ColdFront Labs on the wsdata module for Drupal has begun.
 
 ---
 
@@ -157,11 +152,15 @@ Some considerations to consider are:
 
 ---
 
-- Test with the integration into the dev backup version of Bistrack.
+- Test with the integration into the dev backup version of Bistrack. **To Be Continued***
 
 ---
 
 - Go live.
+
+---
+
+## Application Development
 
 ---
 
@@ -189,6 +188,10 @@ In addition to that, it is most certainly possible to integrate a SKU/Barcode ba
 ### App Development Introduction
 
 Several of our flooring and stone vendors have visualizers that allow the customer to customize their remodeling experience using samples of flooring tiles, stone, and more.
+
+---
+
+## Prerequisites
 
 ---
 
@@ -243,6 +246,42 @@ Bottomline: Data entry and integrity are a must.
 
 ---
 
+## Discovery
+
+---
+
+### App Development
+#### Discovery Process (Several Months)
+
+Each App Platform has a minimum of 150 days of development and at least 35 days of design.
+
+---
+
+### App development
+#### Discovery process
+
+The discovery process to create the design, user interaction, and logic behind the app will take several days throughout the life of the project, with the brunt of discovery during the planning stages.
+
+---
+
+### App development
+#### Discovery process
+
+The discovery process is the intake process where the developer and design teams will work with our team to learn as much as they can about our needs and wants in an app.
+
+---
+
+### App development
+#### Discovery process
+
+It is imperative that we solidify a purpose for the app and deliver clear and concise expectations regarding the features of the app to the development team.
+
+---
+
+## Estimates
+
+---
+
 ### App development
 #### Rough Estimate 1.1
 
@@ -260,5 +299,25 @@ Bottomline: Data entry and integrity are a must.
 #### Rough Estimate 1.3
 
 ![](https://puu.sh/yC4LZ/0366f4defd.png)
+
+---
+
+### App development
+#### Rough Estimate 2.1
+
+![](https://puu.sh/yC5Kb/87c058a688.png)
+
+---
+
+### App development
+#### Rough Estimate 2.2
+
+![](https://puu.sh/yC5Sd/504523e2a3.png)
+
+---
+### App development
+#### Rough Estimate 2.3 - Web App + iOS + Android
+
+![](https://puu.sh/yC5YW/5707debafd.png)
 
 ---
