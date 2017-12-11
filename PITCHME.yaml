@@ -1,10 +1,6 @@
 theme : night
 theme-override : assets/css/PITCHME.css
-
 transition : none
 published : true
-
 # background : assets/images/wallpaper.jpg
 # logo : assets/images/logo.png
-
-#
