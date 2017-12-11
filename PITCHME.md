@@ -395,3 +395,7 @@ It is imperative that we solidify a purpose for the app and deliver clear and co
 - **Q1** | (iOS/Android) App Launch
 - **Q1** | Finish up and test Headless App
 - **Q2** | Launch Headless App
+
+---
+
+# THANK YOU!
