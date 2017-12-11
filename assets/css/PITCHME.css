@@ -1,9 +1,10 @@
 body {
-  background-image: -webkit-gradient(linear, 0 0, 260 142, from(#3e1303), color-stop(0.452, #d68e31), to(#5e2603));
-  background-image: -webkit-linear-gradient(331.35866976616364deg, #3e1303, #d68e31 45.2%, #5e2603);
-  background-image: -moz-linear-gradient(331.35866976616364deg, #3e1303, #d68e31 45.2%, #5e2603);
-  background-image: -o-linear-gradient(331.35866976616364deg, #3e1303, #d68e31 45.2%, #5e2603);
-  background-image: linear-gradient(118.64133023383636deg, #3e1303, #d68e31 45.2%, #5e2603)}
+  background-image: -webkit-gradient(linear, 22 0, 0 26, color-stop(0.058, #360f05), to(#793402));
+  background-image: -webkit-linear-gradient(229.7636416907262deg, #360f05 5.8%, #793402);
+  background-image: -moz-linear-gradient(229.7636416907262deg, #360f05 5.8%, #793402);
+  background-image: -o-linear-gradient(229.7636416907262deg, #360f05 5.8%, #793402);
+  background-image: linear-gradient(220.2363583092738deg, #360f05 5.8%, #793402);
+}
 
 .gold {
   color: #F3D84F;
@@ -52,7 +53,7 @@ span.aside {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #F3D84F !important;
+  color: #EBDECB !important;
   font-family: "Montserrat", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
