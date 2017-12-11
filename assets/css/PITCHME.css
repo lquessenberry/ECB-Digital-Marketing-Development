@@ -30,12 +30,12 @@ span.aside {
 }
 
 .reveal section a {
-  color: #e49436;
+  color: #87B8C4;
   text-decoration: underline;
 }
 
 .reveal section a:hover {
-  color: #e7ad52;
+  color: #F3D84F;
 }
 
 .reveal h1,
@@ -45,7 +45,7 @@ span.aside {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #e49436;
+  color: #F3D84F;
   font-family: "Montserrat", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
